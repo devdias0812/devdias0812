@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Fabrício 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devdias0812/)
-[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://devdias.netlify.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:dias.fabricio0812@gmail.com)
 
 ![DevDias GitHub stats](https://github-readme-stats.vercel.app/api?username=devdias0812&show_icons=true&theme=dracula)
 ![DevDias GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdias0812&layout=compact&theme=dracula)
